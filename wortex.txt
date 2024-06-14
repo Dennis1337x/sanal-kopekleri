@@ -1,0 +1,13 @@
+TC Kimlik Numarası	Adı	Soyadı	Cinsiyet	Doğum Tarihi	Doğum Yeri	Ölüm Tarihi	Anne Adı	Anne TC	Baba Adı	Baba TC	Memleket İl	Memleket İlçe	Memleket Köy	Adres İl	Adres İlçe	Aile Sıra No	Sıra No	Medeni Hal	GSM
+13592630920	ÇAĞRI	ALTUNAY	Erkek	2012-11-13	SELÇUKLU	YOK	ARZU	31820001342	CİHAT	29105091850	Konya	Bozkır	ARMUTLU	KONYA	BOZKIR	105	96	Bekâr	
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Adres Bilgisi
+TC	Ad Soyad	Doğum Yeri	Ikametgah	Vergi Numarası
+13592630920	ÇAĞRI ALTUNAY	SELÇUKLU - KONYA	ARMUTLU 85.YIL CUMHURİYET MAH. SAMANYOLU SK. 3 1 KEMALPAŞA 35	0660894307
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Aile Bilgileri
+Yakınlık	TC	Adı	Soyadı	Cinsiyet	Doğum Tarihi	Doğum Yeri	Ölüm Tarihi	Anne Adı	Anne TC	Baba Adı	Baba TC	Memleket İl	Memleket İlçe	Memleket Köy	Adres İl	Adres İlçe	Aile Sıra No	Sıra No	Medeni Hal	GSM
+Kardeşi	17930465342	YAŞAR	ALTUNAY	Erkek	2009-04-23	SELÇUKLU	YOK	ARZU	31820001342	CİHAT	29105091850	Konya	Bozkır	ARMUTLU	KONYA	BOZKIR	105	92	Bekâr	
+Babası	29105091850	CİHAT	ALTUNAY	Erkek	1983-04-07	BOZKIR	YOK	FATMA	29147090484	YAŞAR	29183089268	Konya	Bozkır	ARMUTLU	KONYA	BOZKIR	105	57	Boşanmış	5321589924
+Annesi	31820001342	ARZU	GÖKÇAY	Kadın	1990-07-27	BOZKIR	YOK	ŞADİYE	35389882398	ALİ OSMAN	31864999896	Konya	Bozkır	ARMUTLU	KONYA	BOZKIR	61	49	Boşanmış	5416058163
