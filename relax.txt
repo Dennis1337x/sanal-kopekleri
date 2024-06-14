@@ -1,5 +1,5 @@
 TC Kimlik Numarası	Adı	Soyadı	Cinsiyet	Doğum Tarihi	Doğum Yeri	Ölüm Tarihi	Anne Adı	Anne TC	Baba Adı	Baba TC	Memleket İl	Memleket İlçe	Memleket Köy	Adres İl	Adres İlçe	Aile Sıra No	Sıra No	Medeni Hal	GSM
-74284075658	POLAT	KENAR	Erkek	2009-11-19	ÜMRANİYE	YOK	MÜCELLA	55252146358	İSMAİL	26587708856	Eskişehir	Alpu	BAĞÇECİK			87	136	Bekâr	
+74284075658	POLAT	KENAR	Erkek	2009-11-19	ÜMRANİYE	YOK	MÜCELLA	55252146358	İSMAİL	26587708856	Eskişehir	Alpu	BAĞÇECİK			87	136	Bekâr	5518101240
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Aile Bilgileri
 Yakınlık	TC	Adı	Soyadı	Cinsiyet	Doğum Tarihi	Doğum Yeri	Ölüm Tarihi	Anne Adı	Anne TC	Baba Adı	Baba TC	Memleket İl	Memleket İlçe	Memleket Köy	Adres İl	Adres İlçe	Aile Sıra No	Sıra No	Medeni Hal	GSM
