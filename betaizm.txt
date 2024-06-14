@@ -1,0 +1,12 @@
+TC Kimlik Numarası	Adı	Soyadı	Cinsiyet	Doğum Tarihi	Doğum Yeri	Ölüm Tarihi	Anne Adı	Anne TC	Baba Adı	Baba TC	Memleket İl	Memleket İlçe	Memleket Köy	Adres İl	Adres İlçe	Aile Sıra No	Sıra No	Medeni Hal	GSM
+10771273862	GALİP BUĞRA	ÇETİNKAYA	Erkek	2004-01-14	KIZILCAHAMAM	YOK	YELİZ	15637118080	MURAT	15640117926	Ankara	Kızılcahamam	YENİCE	ANKARA	KIZILCAHAMAM	253	7	Bekâr	5359563891
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Adres Bilgisi
+TC	Ad Soyad	Doğum Yeri	Ikametgah	Vergi Numarası
+10771273862	GALİP BUĞRA ÇETİNKAYA	KIZILCAHAMAM - ANKARA	YENİCE MAH. SOĞUKSU CAD. TUNA APARTMANI 24 13 KIZILCAHAMAM 6	2460393998
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Aile Bilgileri
+Yakınlık	TC	Adı	Soyadı	Cinsiyet	Doğum Tarihi	Doğum Yeri	Ölüm Tarihi	Anne Adı	Anne TC	Baba Adı	Baba TC	Memleket İl	Memleket İlçe	Memleket Köy	Adres İl	Adres İlçe	Aile Sıra No	Sıra No	Medeni Hal	GSM
+Kardeşi	15634118144	NASİBE SENA	ÇETİNKAYA	Kadın	1997-10-08	KIZILCAHAMAM	YOK	YELİZ	15637118080	MURAT	15640117926	Ankara	Kızılcahamam	YENİCE	ANKARA	KIZILCAHAMAM	253	6	Bekâr	5339610697
+Babası	15640117926	MURAT	ÇETİNKAYA	Erkek	1971-02-12	KIZILCAHAMAM	YOK	NASİBE	15643117862	GALİP	15646117708	Ankara	Kızılcahamam	YENİCE	ANKARA	KIZILCAHAMAM	253	3	Evli	5497192505
+Annesi	15637118080	YELİZ	ÇETİNKAYA	Kadın	1978-08-12	KIZILCAHAMAM	YOK	NAZİFE	11710246428	DURALİ	11725245928	Ankara	Kızılcahamam	YENİCE	ANKARA	KIZILCAHAMAM	253	5	Evli	5534717231
