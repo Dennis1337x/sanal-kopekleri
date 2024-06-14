@@ -1,0 +1,12 @@
+TC Kimlik Numarası	Adı	Soyadı	Cinsiyet	Doğum Tarihi	Doğum Yeri	Ölüm Tarihi	Anne Adı	Anne TC	Baba Adı	Baba TC	Memleket İl	Memleket İlçe	Memleket Köy	Adres İl	Adres İlçe	Aile Sıra No	Sıra No	Medeni Hal	GSM
+74284075658	POLAT	KENAR	Erkek	2009-11-19	ÜMRANİYE	YOK	MÜCELLA	55252146358	İSMAİL	26587708856	Eskişehir	Alpu	BAĞÇECİK			87	136	Bekâr	
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Aile Bilgileri
+Yakınlık	TC	Adı	Soyadı	Cinsiyet	Doğum Tarihi	Doğum Yeri	Ölüm Tarihi	Anne Adı	Anne TC	Baba Adı	Baba TC	Memleket İl	Memleket İlçe	Memleket Köy	Adres İl	Adres İlçe	Aile Sıra No	Sıra No	Medeni Hal	GSM
+Kardeşi	11117624430	MERVE	ÇALIŞ	Kadın	1992-11-17	KASTAMONU	1992-11-17	MÜCELLA	55252146358	MEHMET	11156623128	Kastamonu	Tosya	ÇATMA			105	30	Bekâr	
+Kardeşi	11114624594	MERT CAN	ÇALIŞ	Erkek	1994-01-14	KASTAMONU	YOK	MÜCELLA	55252146358	MEHMET	11156623128	Kastamonu	Tosya	ÇATMA	İSTANBUL	ÜMRANİYE	105	31	Bekâr	5303892837
+Kardeşi	26482712316	HAFİZE	UCAL	Kadın	2000-06-18	ESKİŞEHİR	YOK	NAZMİYE	26488712198	İSMAİL	26587708856	Eskişehir	Mihalgazi	KARAOĞLAN	ESKİŞEHİR	ALPU	87	45	Evli	5529335926
+Kardeşi	31060560180	ABDURRAHMAN	KENAR	Erkek	2003-06-11	ESKİŞEHİR	YOK	NAZMİYE	26488712198	İSMAİL	26587708856	Eskişehir	Alpu	BAĞÇECİK	ESKİŞEHİR	ALPU	87	127	Bekâr	5374892663
+Babası	26587708856	İSMAİL	KENAR	Erkek	1975-05-16	ESKİŞEHİR	YOK	MÜNİRE	26614707968	FİKRET	26650706710	Eskişehir	Alpu	BAĞÇECİK	İSTANBUL	ÜMRANİYE	87	83	Boşanmış	5376614720
+Annesi	55252146358	MÜCELLA	AVCI	Kadın	1969-12-22	KASTAMONU	YOK	HİKMET	55258146130	EMİN	55261146066	Kastamonu	Kastamonu Merkez	GÖMEÇ			2	10	Boşanmış	5530800359
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
