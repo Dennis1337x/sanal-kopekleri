@@ -1,0 +1,12 @@
+TC Kimlik Numarası	Adı	Soyadı	Cinsiyet	Doğum Tarihi	Doğum Yeri	Ölüm Tarihi	Anne Adı	Anne TC	Baba Adı	Baba TC	Memleket İl	Memleket İlçe	Memleket Köy	Adres İl	Adres İlçe	Aile Sıra No	Sıra No	Medeni Hal	GSM
+11744442636	ARDA	GÜNEŞ	Erkek	2007-08-06	ISPARTA	YOK	NURAY	27352920268	SEDAT	27367919790	Isparta	Isparta Merkez	GÜLCÜ	ISPARTA	MERKEZ	390	15	Bekâr	5399609332
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Adres Bilgisi
+TC	Ad Soyad	Doğum Yeri	Ikametgah	Vergi Numarası
+11744442636	ARDA GÜNEŞ	MERKEZ - ISPARTA	YAYLA MAH. 110 CAD. 20 A 6 MERKEZ 32	4330958021
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Aile Bilgileri
+Yakınlık	TC	Adı	Soyadı	Cinsiyet	Doğum Tarihi	Doğum Yeri	Ölüm Tarihi	Anne Adı	Anne TC	Baba Adı	Baba TC	Memleket İl	Memleket İlçe	Memleket Köy	Adres İl	Adres İlçe	Aile Sıra No	Sıra No	Medeni Hal	GSM
+Kardeşi	27343920550	SİNAN	GÜNEŞ	Erkek	1996-01-01	ISPARTA	YOK	NURAY	27352920268	SEDAT	27367919790	Isparta	Isparta Merkez	GÜLCÜ	ERZİNCAN	OTLUKBELİ	390	14	Bekâr	5511287768
+Babası	27367919790	SEDAT	GÜNEŞ	Erkek	1971-04-07	SANDIKLI	YOK	MİYASE	27376919408	MEHMET	27379919344	Isparta	Isparta Merkez	GÜLCÜ	ISPARTA	MERKEZ	390	6	Evli	5511923859
+Annesi	27352920268	NURAY	GÜNEŞ	Kadın	1972-06-24	ISPARTA	YOK	BİRSEN	53044064286	YAŞAR	53077063102	Isparta	Isparta Merkez	GÜLCÜ	ISPARTA	MERKEZ	390	11	Evli	5399609331
