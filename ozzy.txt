@@ -1,0 +1,13 @@
+TC Kimlik Numarası	Adı	Soyadı	Cinsiyet	Doğum Tarihi	Doğum Yeri	Ölüm Tarihi	Anne Adı	Anne TC	Baba Adı	Baba TC	Memleket İl	Memleket İlçe	Memleket Köy	Adres İl	Adres İlçe	Aile Sıra No	Sıra No	Medeni Hal	GSM
+10175619594	OZAN	KURT	Erkek	2004-08-22	TORBALI	YOK	ÖZNUR	44023490400	ENGİN	44119487222	İzmir	Torbalı	TEPEKÖY	İZMİR	TORBALI	28	103	Bekâr	5327019409
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Adres Bilgisi
+TC	Ad Soyad	Doğum Yeri	Ikametgah	Vergi Numarası
+10175619594	OZAN KURT	TORBALI - İZMİR	TEPEKÖY MAH. AYDIN CAD. 272 4 TORBALI 35	5961213834
+----------------------------------------------------------------------------------------------------------
+Aile Bilgileri
+Yakınlık	TC	Adı	Soyadı	Cinsiyet	Doğum Tarihi	Doğum Yeri	Ölüm Tarihi	Anne Adı	Anne TC	Baba Adı	Baba TC	Memleket İl	Memleket İlçe	Memleket Köy	Adres İl	Adres İlçe	Aile Sıra No	Sıra No	Medeni Hal	GSM
+Kardeşi	44017490638	AHMET ÖZEN	KURT	Erkek	1999-10-05	TORBALI	YOK	ÖZNUR	44023490400	ENGİN	44119487222	İzmir	Torbalı	TEPEKÖY	İZMİR	TORBALI	28	95	Bekâr	
+Kardeşi	11183586250	ÖZGE EBRU	KURT	Kadın	2006-04-17	TORBALI	YOK	ÖZNUR	44023490400	ENGİN	44119487222	İzmir	Torbalı	TEPEKÖY	İZMİR	TORBALI	28	105	Bekâr	
+Babası	44119487222	ENGİN	KURT	Erkek	1974-07-01	TORBALI	YOK	AYŞE	44146486366	SÜLEYMAN	44194484772	İzmir	Torbalı	TEPEKÖY	İZMİR	TORBALI	28	54	Evli	5325434820
+Annesi	44023490400	ÖZNUR	KURT	Kadın	1976-06-17	İZMİR	YOK	MERAL	23630170226	HAYDAR	23633170162	İzmir	Torbalı	TEPEKÖY	İZMİR	TORBALI	28	93	Evli	5414675143
