@@ -1,2 +1,2 @@
 # sanal-kopekleri
-sanalcilik kopeklerı devam edın.
+sanalcilik oynamaya devam edin
