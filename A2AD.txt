@@ -1,0 +1,12 @@
+TC Kimlik Numarası	Adı	Soyadı	Cinsiyet	Doğum Tarihi	Doğum Yeri	Ölüm Tarihi	Anne Adı	Anne TC	Baba Adı	Baba TC	Memleket İl	Memleket İlçe	Memleket Köy	Adres İl	Adres İlçe	Aile Sıra No	Sıra No	Medeni Hal	GSM
+10316969410	AZAD	DİLEK	Erkek	2005-07-26	BAFRA	YOK	ÖZLEM	15395796476	AHMET	56368430904	Samsun	Bafra	KAVAKPINAR	SAMSUN	BAFRA	58	36	Bekâr	
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Adres Bilgisi
+TC	Ad Soyad	Doğum Yeri	Ikametgah	Vergi Numarası
+10316969410	AZAD DİLEK	BAFRA - SAMSUN	İSHAKLI MAH. GENÇLİK CAD. GÜVEN APT. 111 2 BAFRA 55	2970995997
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Aile Bilgileri
+Yakınlık	TC	Adı	Soyadı	Cinsiyet	Doğum Tarihi	Doğum Yeri	Ölüm Tarihi	Anne Adı	Anne TC	Baba Adı	Baba TC	Memleket İl	Memleket İlçe	Memleket Köy	Adres İl	Adres İlçe	Aile Sıra No	Sıra No	Medeni Hal	GSM
+Kardeşi	61741253728	DERİN SU	DİLEK	Kadın	2011-07-25	BAFRA	YOK	ÖZLEM	15395796476	AHMET	56368430904	Samsun	Bafra	KAVAKPINAR	SAMSUN	BAFRA	58	46	Bekâr	5336963347
+Babası	56368430904	AHMET	DİLEK	Erkek	1982-11-17	SAMSUN	YOK	TÜRKAN	56401429810	HAYATİ	56413429464	Samsun	Bafra	KAVAKPINAR	SAMSUN	BAFRA	58	24	Evli	5437826627
+Annesi	15395796476	ÖZLEM	DİLEK	Kadın	1983-10-29	BAFRA	YOK	AYŞE	15401796216	İBRAHİM	15422795588	Samsun	Bafra	KAVAKPINAR	SAMSUN	BAFRA	58	33	Evli	5458178781
