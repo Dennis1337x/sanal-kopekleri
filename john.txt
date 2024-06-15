@@ -1,0 +1,14 @@
+T.C.	Ad	Soyad	Şehir	Cinsiyet	Seri No
+11706161902	SALİH	ETHEM	BURSA	Erkek	A00N72941
+--------------------------------------------------
+T.C.	Yaş	Cinsiyet	Adres
+11706161902	15	Erkek	AHMETVEFİKPAŞA MAH. BAHAR CAD. NO: 12 DAİRE NO : 2 KESTEL / BURSA
+----------------------------------------------------------------------------------------------------
+Yakınlık	T.C.	Ad	Soyad	Doğum Tarihi	İl	İlçe	Anne Adı	Anne TC	Baba Adı	Baba TC	Uyruk
+Annesi	56647663306	NERGİZ	ETHEM	8.10.1976	BURSA	KESTEL	ZÜLFİYE		LATİFŞA		UZ
+Babası	56650663232	EKREM	ETHEM	26.6.1974	BURSA	KESTEL	SUNA	56776659034	TAŞDAN	56779658980	UZ
+Kendisi	11706161902	SALİH	ETHEM	13.7.2009	BURSA	KESTEL	NERGİZ	56647663306	EKREM	56650663232	TR
+----------------------------------------------------------------------------------------------------
+https://hizliresim.com/kaan5gk 
+VESIKASI KOPEGIM
+-------------------------------------------------------------------------------------------------------
