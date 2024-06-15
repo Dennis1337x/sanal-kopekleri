@@ -1,0 +1,14 @@
+5340708001 guncel numarası
+----------------------------------------------------------------------------------
+TC Kimlik Numarası	Adı	Soyadı	Cinsiyet	Doğum Tarihi	Doğum Yeri	Ölüm Tarihi	Anne Adı	Anne TC	Baba Adı	Baba TC	Memleket İl	Memleket İlçe	Memleket Köy	Adres İl	Adres İlçe	Aile Sıra No	Sıra No	Medeni Hal	GSM
+10339797908	BURAK	BURUCU	Erkek	2008-02-27	BALIKESİR	YOK	CENNET	14773649922	SÜLEYMAN	14818648460	Balıkesir	Dursunbey	YASSIÖREN	BALIKESİR	ALTIEYLÜL	64	81	Bekâr	5437640675
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Adres Bilgisi
+TC	Ad Soyad	Doğum Yeri	Ikametgah	Vergi Numarası
+10339797908	BURAK BURUCU	BALIKESİR - BALIKESİR	BAHÇELİEVLER MAH. 5132 SK. İLKİZ SİTESİ IKIZ SIRASI B BLOK 47 /2 K ALTIEYLÜL 10	1911036263
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Aile Bilgileri
+Yakınlık	TC	Adı	Soyadı	Cinsiyet	Doğum Tarihi	Doğum Yeri	Ölüm Tarihi	Anne Adı	Anne TC	Baba Adı	Baba TC	Memleket İl	Memleket İlçe	Memleket Köy	Adres İl	Adres İlçe	Aile Sıra No	Sıra No	Medeni Hal	GSM
+Kardeşi	14767650118	SİNAN	BURUCU	Erkek	1998-06-30	DURSUNBEY	YOK	CENNET	14773649922	SÜLEYMAN	14818648460	Balıkesir	Dursunbey	YASSIÖREN	BALIKESİR	ALTIEYLÜL	64	70	Bekâr	5522179890
+Babası	14818648460	SÜLEYMAN	BURUCU	Erkek	1980-05-25	YASSIÖREN KÖYÜ	YOK	KEZBAN	14839647732	İBRAHİM	14881646356	Balıkesir	Dursunbey	YASSIÖREN	İSTANBUL	BEYOĞLU	64	52	Evli	5413705611
+Annesi	14773649922	CENNET	BURUCU	Kadın	1977-11-29	ÇANAKCI KÖYÜ	YOK	FATMA	17491558392	ŞAKİR	17506557860	Balıkesir	Dursunbey	YASSIÖREN	BALIKESİR	ALTIEYLÜL	64	68	Evli	5437640675
