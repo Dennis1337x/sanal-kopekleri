@@ -1,12 +1,51 @@
-TC Kimlik Numarası	Adı	Soyadı	Cinsiyet	Doğum Tarihi	Doğum Yeri	Ölüm Tarihi	Anne Adı	Anne TC	Baba Adı	Baba TC	Memleket İl	Memleket İlçe	Memleket Köy	Adres İl	Adres İlçe	Aile Sıra No	Sıra No	Medeni Hal	GSM
-74284075658	POLAT	KENAR	Erkek	2009-11-19	ÜMRANİYE	YOK	MÜCELLA	55252146358	İSMAİL	26587708856	Eskişehir	Alpu	BAĞÇECİK			87	136	Bekâr	5518101240
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Kişisel Bilgiler
+TC:	74284075658
+Ad:	POLAT
+Soyad:	KENAR
+Doğum Tarihi:	19.11.2009
+Anne Adı:	MÜCELLA
+Anne TC:	55252146358
+Anne GSM:	5530800359
+Baba Adı:	İSMAİL
+Baba TC:	26587708856
+Baba GSM:	5510192980
+Nüfus İl/İlçe:	/
+Adres:	ÇAKMAK MAH. ÖZDURU SK. 23/1 ÜMRANİYE / İSTANBUL
+Telefon :	
+Okulno-Sınıf Bilgileri
+OKUL NUMARASI	SINIF
+-828	
+Hastalık Bilgileri
+Polikinlik:	DEVLET HASTANESİ POLİKİNLİĞİ
+Hastane:	DEVLET HASTANESİ
 Aile Bilgileri
-Yakınlık	TC	Adı	Soyadı	Cinsiyet	Doğum Tarihi	Doğum Yeri	Ölüm Tarihi	Anne Adı	Anne TC	Baba Adı	Baba TC	Memleket İl	Memleket İlçe	Memleket Köy	Adres İl	Adres İlçe	Aile Sıra No	Sıra No	Medeni Hal	GSM
-Kardeşi	11117624430	MERVE	ÇALIŞ	Kadın	1992-11-17	KASTAMONU	1992-11-17	MÜCELLA	55252146358	MEHMET	11156623128	Kastamonu	Tosya	ÇATMA			105	30	Bekâr	
-Kardeşi	11114624594	MERT CAN	ÇALIŞ	Erkek	1994-01-14	KASTAMONU	YOK	MÜCELLA	55252146358	MEHMET	11156623128	Kastamonu	Tosya	ÇATMA	İSTANBUL	ÜMRANİYE	105	31	Bekâr	5303892837
-Kardeşi	26482712316	HAFİZE	UCAL	Kadın	2000-06-18	ESKİŞEHİR	YOK	NAZMİYE	26488712198	İSMAİL	26587708856	Eskişehir	Mihalgazi	KARAOĞLAN	ESKİŞEHİR	ALPU	87	45	Evli	5529335926
-Kardeşi	31060560180	ABDURRAHMAN	KENAR	Erkek	2003-06-11	ESKİŞEHİR	YOK	NAZMİYE	26488712198	İSMAİL	26587708856	Eskişehir	Alpu	BAĞÇECİK	ESKİŞEHİR	ALPU	87	127	Bekâr	5374892663
-Babası	26587708856	İSMAİL	KENAR	Erkek	1975-05-16	ESKİŞEHİR	YOK	MÜNİRE	26614707968	FİKRET	26650706710	Eskişehir	Alpu	BAĞÇECİK	İSTANBUL	ÜMRANİYE	87	83	Boşanmış	5376614720
-Annesi	55252146358	MÜCELLA	AVCI	Kadın	1969-12-22	KASTAMONU	YOK	HİKMET	55258146130	EMİN	55261146066	Kastamonu	Kastamonu Merkez	GÖMEÇ			2	10	Boşanmış	5530800359
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+YAKINLIK DURUMU	TC	AD SOYAD	DOĞUM TARIHI	İL / İLÇE	GSM
+Kardeşi	26482712316	HAFİZE UCAL	18.6.2000	ESKİŞEHİR / ALPU	5529335926
+Kardeşi	31060560180	ABDURRAHMAN KENAR	11.6.2003	ESKİŞEHİR / ALPU	5374892663
+Kardeşi	11114624594	MERT CAN ÇALIŞ	14.1.1994	İSTANBUL / ÜMRANİYE	5303892837
+Kardeşi	11117624430	MERVE ÇALIŞ	17.11.1992	/	5303892837
+Babası	26587708856	İSMAİL KENAR	15.5.1975	İSTANBUL / ÜMRANİYE	5510192980
+Annesi	55252146358	MÜCELLA AVCI	22.12.1969	/	5530800359
+Yakın Akraba Bilgileri
+YAKINLIK DURUMU	TC	AD SOYAD	DOĞUM TARIHI
+Hala/Amca	25228754184	GÜLHAN TOPÇU	15.1.1972
+Hala/Amca	23101825068	GÜLHAN YAVAŞ	10.1.1979
+Hala/Amca	26605708240	CAFER KENAR	13.12.1970
+Hala/Amca	26548710126	SAFİYE DÜĞEN	1.1.1985
+Dedesi (Baba Tarafı )	26650706710	FİKRET KENAR	15.6.1951
+Babaannesi	26614707968	MÜNİRE KENAR	15.6.1952
+Teyze/Dayı	55255146294	MUHARREM AVCI	4.10.1955
+Teyze/Dayı	26324110256	MUALLA ALBAYRAK	28.7.1959
+Dedesi ( Anne Tarafı )	55261146066	EMİN AVCI	15.3.1928
+Anneannesi	55258146130	HİKMET AVCI	11.3.1934
+Binasındaki Kişiler
+TC	AD SOYAD	DOĞUM TARIHI	AÇIK ADRES
+34276163350	MELEK ERGEN	1940-01-05	İSTİKLAL MAH. CEVHER SOKAK 8 1 İSTANBUL / ÜMRANİYE
+20315236338	SEMRA BEKTAŞ	1953-12-01	İSTİKLAL MAH. CEVHER SOKAK 8 2 İSTANBUL / ÜMRANİYE
+53851103758	ÇİĞDEM SAYAN	1976-09-18	İSTİKLAL MAH. CEVHER SOKAK 8 2 İSTANBUL / ÜMRANİYE
+53860103466	FATMA HAMDİYE SAYAN	1920-07-01	İSTİKLAL MAH. CEVHER SOKAK 8 2 İSTANBUL / ÜMRANİYE
+26345615440	MAKBULE İMİR KOŞAR	1986-09-09	İSTİKLAL MAH. CEVHER SOKAK 8 3 İSTANBUL / ÜMRANİYE
+17486910938	MEHMET EMİN KOŞAR	1980-12-28	İSTİKLAL MAH. CEVHER SOKAK 8 3 İSTANBUL / ÜMRANİYE
+26587708856	İSMAİL KENAR	1975-05-16	İSTİKLAL MAH. CEVHER SOKAK 8 4 İSTANBUL / ÜMRANİYE
+27421972600	AHMET GALİP ÜÇÜNCÜOGÜLER	1976-04-15	İSTİKLAL MAH. CEVHER SOKAK 8 5 İSTANBUL / ÜMRANİYE
+27424972546	HATUN ÜÇÜNCÜOGÜLER	1946-03-28	İSTİKLAL MAH. CEVHER SOKAK 8 5 İSTANBUL / ÜMRANİYE
